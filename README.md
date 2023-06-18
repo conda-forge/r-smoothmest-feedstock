@@ -1,11 +1,11 @@
-About r-smoothmest
-==================
+About r-smoothmest-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smoothmest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/web/packages/smoothmest/index.html
 
 Package license: GPL
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smoothmest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Some M-estimators for 1-dimensional location (Bisquare, ML for the Cauchy distribution, and the estimators from application of the smoothing principle introduced in Hampel, Hennig and Ronchetti (2011) to the above, the Huber M-estimator, and the median, main function is smoothm), and Pitman estimator.
 
